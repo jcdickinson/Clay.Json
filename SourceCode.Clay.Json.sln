@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28516.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceCode.Clay.Json", "src\SourceCode.Clay.Json\SourceCode.Clay.Json.csproj", "{2A2DB789-C915-4316-AE86-BB5BD509676D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceCode.Clay.Json.Tests", "src\SourceCode.Clay.Json.Tests\SourceCode.Clay.Json.Tests.csproj", "{CEDA444E-F2CD-41F1-BD3B-D204EA96B05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2DB789-C915-4316-AE86-BB5BD509676D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2DB789-C915-4316-AE86-BB5BD509676D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2DB789-C915-4316-AE86-BB5BD509676D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2DB789-C915-4316-AE86-BB5BD509676D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDA444E-F2CD-41F1-BD3B-D204EA96B05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDA444E-F2CD-41F1-BD3B-D204EA96B05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDA444E-F2CD-41F1-BD3B-D204EA96B05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDA444E-F2CD-41F1-BD3B-D204EA96B05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA8A3DE-9E90-479D-9EEA-ECEFA7BE8A0D}
+	EndGlobalSection
+EndGlobal
